@@ -6,7 +6,8 @@
   - [Análise de Alerta E-mail Phishing](https://github.com/gilbertolg7/Analise-email-Phishing-SIEM)
 - <b>Análise e Coleta de Dados De Tráfego de Rede</b>
   - [Monitoramento Tráfego de Rede com Wireshark](https://github.com/gilbertolg7/Analise-HTTP-Basic-Auth-Wireshark)
-
+- <b>Análise Dinâmica de Malware</b>
+  - [Análise de comportamento de malware em ambiente controlado](https://github.com/gilbertolg7/Analise-Dinamica-Malware)
 <h2>👨‍💻 Projetos de Programação:</h2>
 
 - <b>Desenvolvimento de Interface gráfica para Monitoramento de Criptomoedas</b>
