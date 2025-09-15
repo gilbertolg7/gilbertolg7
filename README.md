@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projetos de Cybersegurança:</h2>
 
+- <b>Projeto HomeLab Active Diretory</b>
+  - [Projeto de Criação de configuração de um HomeLab para testes e prática Active Diretory](https://github.com/gilbertolg7/Projeto-HomeLab-Active-Diretory)
 - <b>Análise de Alerta E-mail Phishing em SIEM  (LetsDefend)</b>
   - [Análise de Alerta E-mail Phishing](https://github.com/gilbertolg7/Analise-email-Phishing-SIEM)
 - <b>Análise e Coleta de Dados De Tráfego de Rede</b>
